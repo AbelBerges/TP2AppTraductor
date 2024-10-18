@@ -16,7 +16,7 @@ public class TraductorViewModel extends ViewModel {
         listado.add(new Palabra("manzana","Apple",R.drawable.manzana));
         listado.add(new Palabra("gato","Cat",R.drawable.gatito));
         listado.add(new Palabra("conejo","Rabbit",R.drawable.conejito));
-        listado.add(new Palabra("nada","No matches found",R.drawable.defaulf));
+        listado.add(new Palabra("sfadi@#@","No matches found",R.drawable.defaulf));
     }
 
     public LiveData<Palabra> getTraducida(){

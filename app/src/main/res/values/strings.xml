@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">AppTRaducir</string>
+    <string name="app_name">AppTraducir</string>
     <string name="enEspanol">Palabra en Español</string>
     <string name="enIngles">Word in English</string>
     <string name="btnTraducir">Traducir</string>
